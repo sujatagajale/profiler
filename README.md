@@ -8,7 +8,7 @@
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://github.com/sujatagajale/spring-boot-example
+$ git clone https://github.com/sujatagajale/profiler
 $ mvn tomcat7:run
 ```
 Access ```http://localhost:8080/profiler/hello```
