@@ -1,4 +1,4 @@
-package net.viralpatel.spring.controller;
+package com.profile.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -10,7 +10,7 @@ public class HelloController {
 	@GetMapping("/hello")
 	public String hello(Model model) {
 
-		model.addAttribute("name", "John Doe");
+		model.addAttribute("name", "Sanjay Kokane");
 
 		return "welcome";
 	}

@@ -1,4 +1,4 @@
-# Spring 4 MVC Example (Java Configuration) + Maven
+# Spring 4 MVC + Rest API + Maven
 Template example for Spring 4 MVC + JSP View with pure Java Configuration (no XML), using Maven build tool.
 
 ###1. Technologies
@@ -8,7 +8,7 @@ Template example for Spring 4 MVC + JSP View with pure Java Configuration (no XM
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://github.com/viralpatel/spring4-mvc-example
+$ git clone https://github.com/sujatagajale/profiler.git
 $ mvn tomcat7:run
 ```
 Access ```http://localhost:8080/spring4/hello```
@@ -20,4 +20,4 @@ Access ```http://localhost:8080/spring4/hello```
 
 
 ###3. Project Demo
-Please refer to this article [Spring 4 MVC Hello World](http://viralpatel.net/blogs/spring-4-mvc-tutorial-maven-example/)
+Please refer to this article [Spring 4 MVC Hello World](http://localhost:8080/profiler/hello)
