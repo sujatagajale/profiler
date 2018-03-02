@@ -13,7 +13,7 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String hello(Model model) {
-		logger.trace("Entering application...");
+		logger.trace("Hello method ");
 
 		logger.info("Hello Log4j2...");
 		
