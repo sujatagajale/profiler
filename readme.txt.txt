@@ -4,7 +4,7 @@ mvn clean install
 
 mvn tomcat7:run
 
-
+Use below URL
 
 http://localhost:8080/profiler/hello
 
